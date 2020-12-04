@@ -12,7 +12,7 @@
     "vue": "^2.6.10",
     "diff": "^3.5.0",
     "diff2html": "^2.3.3",
-    "highlight.js": "^9.12.0",
+    "highlight.js": "^10.4.1",
     "vue-router": "^3.0.3"
   },
   "devDependencies": {
